@@ -6,6 +6,7 @@ model文件夹存放的是训练好的模型，可以删除文件夹下的模型
 log文件夹存放的是log文件
 assets文件夹存放的是实时显示sql语句数目的web界面相关的html、css和javascript文件
 
+入口文件是proxy.py
 config.ini是配置文件，相关参数可以在上面更改
 
 防火墙的代理功能是参照nim4的DBShield，项目详情见https://github.com/nim4/DBShield
